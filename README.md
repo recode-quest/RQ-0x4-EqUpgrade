@@ -9,12 +9,12 @@ ______ _____         ______       _____                 _
 
 # 0x4 EQ Upgrade
 
-> EQ upgrade is a system allow player upgrade his/her equipment in games. Then this equipment become better(has better statistic, more damage, defense, health and more).
-Player most often need some gold and material to upgrade, and he/she has only a chance to upgrade.
+> EQ upgrade is a system allow player upgrade his/her equipment in games. Upgraded equipment become better, has better statistic(more damage, defense, health and more).
+Players most often need some gold and materials to upgrade, and they have only a chance to upgrade.
 Equipment can be upgrade successfully, failed and even be destroyed or sometimes decreased his level upgrade.
 If you never met this system, you can try it online. [Nosapki](https://nosapki.nostale.club/ulepszanieeq) < This is example of simulation of upgrading equipment for Nostale MMORPG Game.
 
-Create program to simulate EQ Upgrade(for real game or not) and count how many you need money and material to upgrade :) 
+Create program to simulate EQ Upgrade(for real game or not) and count how many you need money and materials to upgrade :) 
 
 ## RULES
 
