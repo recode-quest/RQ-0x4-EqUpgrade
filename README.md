@@ -15,7 +15,7 @@ The result of upgrading process can be success, failure and even destruction or 
 
 > If you never met this system, you can try it online. [Nosapki](https://nosapki.nostale.club/ulepszanieeq) < This is example of simulation of upgrading equipment for Nostale MMORPG game.
 
-Your task for this week will be to create program to simulate **eq upgrade**(for real game or not) and count how many you need money and materials to upgrade :) 
+Your task for this week will be to create program simulating **eq upgrade**(for real game or not) and count how many you need money and materials to upgrade :) 
 
 ## RULES
 
